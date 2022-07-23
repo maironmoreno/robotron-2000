@@ -38,11 +38,11 @@ const pecas = {
 
 const robos = [
     "img/Robotron 2000 - Vermelho.png",
-    "img/robotron 2000 - Rosa.png",
-    "img/robotron 2000 - Amarelo.png",
-    "img/robotron 2000 - Azul.png",
-    "img/robotron 2000 - Branco.png",
-    "img/robotron 2000 - Preto.png",
+    "img/Robotron 2000 - Rosa.png",
+    "img/Robotron 2000 - Amarelo.png",
+    "img/Robotron 2000 - Azul.png",
+    "img/Robotron 2000 - Branco.png",
+    "img/Robotron 2000 - Preto.png",
 ]
 
 var contador = 0;
